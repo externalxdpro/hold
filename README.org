@@ -1,0 +1,18 @@
+#+title: Hold
+
+* Images
+[[./images/homescreen.png]]
+[[./images/settings.png]]
+[[./images/charity.png]]
+[[./images/animalwelfarefund.png]]
+[[./images/kwhumanesociety.png]]
+[[./images/donationinput.png]]
+[[./images/donationsummary.png]]
+* Features
++ Dart/Flutter
++ Firebase integration
++ Stripe integration
++ Dynamic UI (automatically fetches charity data from firebase)
+* Usage
+Compilation will not work since all files related to firebase have been hidden.
+APKs can be found on the releases page.
