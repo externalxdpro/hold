@@ -1,7 +1,7 @@
 #+title: Hold
 
 * Images
-#+ATTR_ORG: :width 200
+#+ATTR_HTML: :width 200
 [[./images/homescreen.png]]
 [[./images/settings.png]]
 [[./images/charity.png]]
